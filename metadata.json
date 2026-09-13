@@ -1,0 +1,7 @@
+{
+  "name": "Growth Up Tech",
+  "description": "Professional digital business and learning platform for coding courses, digital assets, tech services, and developer resources.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
